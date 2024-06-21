@@ -26,7 +26,7 @@ In order to successfully complete this demo you need to install few tools before
 1. Clone and enter this repository.
 
    ```bash
-   git clone https://github.com/confluentinc/live-labs.git
+   git clone https://github.com/jburanasin/live-labs.git
    cd DIMT2024
    ```
 
