@@ -68,6 +68,10 @@ Create Confluent Cloud API keys by following [this](https://registry.terraform.i
 1. Create an API key pair so Terraform can create resources in the Atlas cluster. To do this, use the left-hand and click on **Access Manager** then **Create API Key** on the top right-side of the screen.
 1. Add a description and select **Organization Owner** for the permission level.
 
+<div align="center"> 
+  <img src="images/mongoAPIKey3.png" width =100% heigth=100%>
+</div>
+
 1. For detailed instructions and troubleshooting visit the [docs](https://registry.terraform.io/providers/mongodb/mongodbatlas/latest/docs#configure-atlas-programmatic-access).
 
 ### Update the accounts file
