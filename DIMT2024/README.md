@@ -48,9 +48,16 @@ Create Confluent Cloud API keys by following [this](https://registry.terraform.i
   <img src="images/cloudAPIKey2.png" width =100% heigth=100%>
 </div>
 
+
 <div align="center"> 
   <img src="images/cloudAPIKey1.png" width =100% heigth=100%>
 </div>
+
+
+<div align="center"> 
+  <img src="images/cloudAPIKey3.png" width =100% heigth=100%>
+</div>
+
 
 ### MongoDB Atlas
 
