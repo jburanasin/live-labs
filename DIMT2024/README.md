@@ -44,6 +44,14 @@ Create Confluent Cloud API keys by following [this](https://registry.terraform.i
 
 > **Note:** This is different than Kafka cluster API keys.
 
+<div align="center"> 
+  <img src="images/cloudAPIKey2.png" width =100% heigth=100%>
+</div>
+
+<div align="center"> 
+  <img src="images/cloudAPIKey1.png" width =100% heigth=100%>
+</div>
+
 ### MongoDB Atlas
 
 1. Log into [MongoDB web UI](https://www.mongodb.com/).
