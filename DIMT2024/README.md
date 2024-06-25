@@ -12,7 +12,7 @@ Welcome to HappyFeet store - Where Every Step Matters! In this workshop, we harn
 
 In order to successfully complete this demo you need to install few tools before getting started.
 
-- If you don't have a Confluent Cloud account, sign up for a free trial [here](https://www.confluent.io/confluent-cloud/tryfree).
+- If you don't have a Confluent Cloud account, sign up for a free trial [here](https://bit.ly/3z9O1Kl).
 - Install Confluent Cloud CLI by following the instructions [here](https://docs.confluent.io/confluent-cli/current/install.html).
 - Sign up for a free MongoDB Atlas account [here](https://www.mongodb.com/cloud/atlas/register?utm_campaign=devrel&utm_source=workshop&utm_medium=cta&utm_content=Confluent%20x%20AWS%20x%20MongoDB%20Workshop%20%40%20Data%20in%20Motion%20Tour%20FY25&utm_term=jade.furubayashi).
 - Download and Install Terraform [here](https://developer.hashicorp.com/terraform/downloads?ajs_aid=837a4ee4-253b-4b3d-bf11-952575792ad1&product_intent=terraform)
