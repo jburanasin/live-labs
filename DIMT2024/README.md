@@ -19,6 +19,10 @@ In order to successfully complete this demo you need to install few tools before
 
   > **Note:** This demo was built and validate on a Mac (x86).
 
+- Install jq tool
+   ```bash
+   brew install jq
+   ```
 ## Setup
 
 1. This demo uses Terraform and bash scripting to create and teardown infrastructure and resources.
