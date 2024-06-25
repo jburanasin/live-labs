@@ -69,7 +69,7 @@ Create Confluent Cloud API keys by following [this](https://registry.terraform.i
 1. Add a description and select **Organization Owner** for the permission level.
 
 <div align="center"> 
-  <img src="images/mongoAPIKey3.png" width =100% heigth=100%>
+  <img src="images/mongoApiKey3.png" width =100% heigth=100%>
 </div>
 
 1. For detailed instructions and troubleshooting visit the [docs](https://registry.terraform.io/providers/mongodb/mongodbatlas/latest/docs#configure-atlas-programmatic-access).
