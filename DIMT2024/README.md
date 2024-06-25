@@ -42,7 +42,7 @@ In order to successfully complete this demo you need to install few tools before
 
 Create Confluent Cloud API keys by following [this](https://registry.terraform.io/providers/confluentinc/confluent/latest/docs/guides/sample-project#create-a-cloud-api-key) guide.
 
-> **Note:** This is different than Kafka cluster API keys.
+> **Note:** Please ignore the granula level api key mentioned, use My account API key show in the figure below instead. This is different than Kafka cluster api key.
 
 <div align="center"> 
   <img src="images/cloudAPIKey2.png" width =100% heigth=100%>
